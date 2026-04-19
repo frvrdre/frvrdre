@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi My name is Dray and I'm trying to become a Front-End Developer.</h2>
+<h2 align="left">Hi My name is Dre and I'm trying to become a Front-End Developer.</h2>
 
 
 
