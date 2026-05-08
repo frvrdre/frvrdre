@@ -1,14 +1,10 @@
 <h1 align="center">Hi👋, I'm Andres</h1>
 
-<p align="center">
-💻 JavaScript Developer in Training | 🚀 Building Real-World Web Apps | 🔧 Problem Solver
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-I'm a 21-year-old aspiring full-stack developer focused on building modern, responsive, and scalable web applications using JavaScript and its ecosystem.
+I'm a 21-year-old aspiring front-end developer focused on building modern, responsive, and scalable web applications using JavaScript and its ecosystem.
 
 I enjoy solving real-world problems through code and continuously improving my development skills through hands-on projects and consistent learning.
 
@@ -70,7 +66,7 @@ Outside of tech, I’m married with a child, which keeps life busy — but also 
 
 ## 🚀 Goals
 
-- Land my first role as a JavaScript developer
+- Land my first role as a developer
 - Build production-ready full-stack applications
 - Contribute to open-source projects
 - Continuously improve and grow as a developer
