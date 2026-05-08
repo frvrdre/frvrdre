@@ -1,52 +1,96 @@
-<h1 align="center">Hi 👋! My name is Dre.</h1>
+<h1 align="center">Hi👋, I'm Dre</h1>
 
-###
+<p align="center">
+💻 JavaScript Developer in Training | 🚀 Building Real-World Web Apps | 🔧 Problem Solver
+</p>
 
-<p align="left">Hey, I’m 21 and currently working towards becoming a JavaScript developer. I spend a lot of my time learning web development, building projects, and improving my skills step by step. I enjoy problem solving, creating things, and seeing how much I improve over time.<br><br>Outside of coding, I’m married and have one child, so life stays pretty busy, but that’s also part of what keeps me motivated and focused on building a solid future and career in tech.</p>
+---
 
-###
+## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+I'm a 21-year-old aspiring full-stack developer focused on building modern, responsive, and scalable web applications using JavaScript and its ecosystem.
+
+I enjoy solving real-world problems through code and continuously improving my development skills through hands-on projects and consistent learning.
+
+Outside of tech, I’m married with a child, which keeps life busy — but also drives my motivation to build a strong career in software development and create long-term stability for my family.
+
+---
+
+## 🧠 Currently Learning
+
+- JavaScript (advanced fundamentals & async programming)
+- Node.js (backend development & APIs)
+- React / Next.js (modern frontend architecture)
+- REST APIs & database integration
+- Clean code & software design principles
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
 </div>
 
-###
+### Backend
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" />
+</div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/andres-young-065b58265?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+---
+
+## 📌 What I’m Working On
+
+- Building full-stack JavaScript applications
+- Strengthening backend development with Node.js
+- Learning how to design scalable APIs
+- Improving UI/UX in frontend projects
+- Developing real-world portfolio projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frvrdre/frvrdre/stats-output/stats.svg" height="160" />
+  <img src="https://streak-stats.demolab.com?user=frvrdre&theme=dracula" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frvrdre/frvrdre/trophy-output/trophy.svg" height="160" />
+</p>
+
+---
+
+## 🚀 Goals
+
+- Land my first role as a JavaScript developer
+- Build production-ready full-stack applications
+- Contribute to open-source projects
+- Continuously improve and grow as a developer
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andres-young-065b58265" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="foreverrdre" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/frvrdre/frvrdre/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=frvrdre&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/frvrdre/frvrdre/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frvrdre/frvrdre/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frvrdre/frvrdre/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/frvrdre/frvrdre/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p align="center">
+⚡ “Consistent effort beats talent when talent doesn’t work hard.”
+</p>
