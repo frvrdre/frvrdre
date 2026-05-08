@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Dre</h1>
+<h1 align="center">Hi👋, I'm Andres</h1>
 
 <p align="center">
 💻 JavaScript Developer in Training | 🚀 Building Real-World Web Apps | 🔧 Problem Solver
