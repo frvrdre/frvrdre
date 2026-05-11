@@ -8,7 +8,7 @@ I'm a 21-year-old aspiring front-end developer focused on building modern, respo
 
 I enjoy solving real-world problems through code and continuously improving my development skills through hands-on projects and consistent learning.
 
-Outside of tech, I’m married with a child, which keeps life busy — but also drives my motivation to build a strong career in software development and create long-term stability for my family.
+Outside of tech, I’m engaged with a child, which keeps life busy — but also drives my motivation to build a strong career in software development and create long-term stability for my family.
 
 ---
 
