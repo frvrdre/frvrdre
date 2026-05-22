@@ -1,14 +1,4 @@
-<h1 align="center">Hi👋, I'm Andres</h1>
-
----
-
-## 👨‍💻 About Me
-
-I'm a 21-year-old aspiring front-end developer focused on building modern, responsive, and scalable web applications using JavaScript and its ecosystem.
-
-I enjoy solving real-world problems through code and continuously improving my development skills through hands-on projects and consistent learning.
-
-Outside of tech, I’m engaged with a child, which keeps life busy — but also drives my motivation to build a strong career in software development and create long-term stability for my family.
+<h1 align="center">Dre</h1>
 
 ---
 
@@ -41,16 +31,6 @@ Outside of tech, I’m engaged with a child, which keeps life busy — but also 
 
 ---
 
-## 📌 What I’m Working On
-
-- Building full-stack JavaScript applications
-- Strengthening backend development with Node.js
-- Learning how to design scalable APIs
-- Improving UI/UX in frontend projects
-- Developing real-world portfolio projects
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -64,29 +44,4 @@ Outside of tech, I’m engaged with a child, which keeps life busy — but also 
 
 ---
 
-## 🚀 Goals
 
-- Land my first role as a developer
-- Build production-ready full-stack applications
-- Contribute to open-source projects
-- Continuously improve and grow as a developer
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/andres-young-065b58265" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-⚡ “Consistent effort beats talent when talent doesn’t work hard.”
-</p>
