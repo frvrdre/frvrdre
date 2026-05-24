@@ -5,11 +5,6 @@
 ## 🧠 Currently Learning
 
 - JavaScript (advanced fundamentals & async programming)
-- Node.js (backend development & APIs)
-- React / Next.js (modern frontend architecture)
-- REST APIs & database integration
-- Clean code & software design principles
-
 ---
 
 ## ⚙️ Tech Stack
