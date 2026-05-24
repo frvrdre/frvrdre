@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dre</h1>
-- 🌱 I’m currently learning **JavaScript** as my goal is to become a front-end developer.
+- 🌱 I’m currently learning *JavaScript* as my goal is to become a front-end developer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frvrdre&label=Profile%20views&color=0e75b6&style=flat" alt="frvrdre" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frvrdre" alt="frvrdre" /></a> </p>
