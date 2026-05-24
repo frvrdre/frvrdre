@@ -2,14 +2,14 @@
   <img
     width="150"
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZwNDMxZ2R1NW8zZWN1cXh0NG9tbHFhYnRvbjUzeWs1bG8wd3Q5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOPrq7m5jYS1W/giphy.gif"
-    alt="Cool coding GIF"
+    alt="Coding GIF"
   />
   <br />
   <br />
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Itim&size=38&duration=2200&pause=2500&color=E0DFF1&center=true&repeat=false&width=700&height=70&lines=Hey%2C+I'm+Dre+%E2%9C%A8;Future+JavaScript+Developer;Building+my+way+up+one+project+at+a+time"
+      src="https://readme-typing-svg.demolab.com?font=Itim&size=36&duration=2200&pause=2500&color=E0DFF1&center=true&repeat=false&width=700&height=70&lines=Hey%2C+I'm+Dre;Learning+JavaScript;Building+real+web+projects"
       alt="Typing SVG"
     />
   </a>
@@ -20,7 +20,7 @@
   <a href="https://github.com/frvrdre">
     <img src="https://img.shields.io/badge/GitHub-frvrdre-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
--
+
   <img src="https://img.shields.io/badge/Discord-frvrdre-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 
 </div>
@@ -31,15 +31,15 @@
 
 Hi, I'm **Dre**.
 
-I'm **21**, a **father**, and currently learning how to become a better developer step by step.
+I'm **21**, a **father**, and currently building my skills in web development through JavaScript, Scrimba, and real projects.
 
-Right now, my main focus is learning **JavaScript**, improving my coding confidence, and building real projects instead of only watching tutorials.
+Right now, I'm focused on getting better at **JavaScript** by building projects, practising consistently, and learning how to understand code properly instead of just copying it.
 
-I'm currently working through **Scrimba courses** and practising HTML, CSS, and JavaScript so I can become confident enough to build websites, apps, and interactive tools on my own.
+My goal is to become confident enough to build clean, useful websites and apps on my own, then move towards front-end/full-stack development.
 
 ---
 
-## 🧠 What I'm Learning Right Now
+## 🧠 Current Learning Profile
 
 ```javascript
 const Dre = {
@@ -49,11 +49,11 @@ const Dre = {
   currentCourse: "Scrimba",
   tools: ["VS Code", "Git", "GitHub", "Vite", "npm"],
   focus: [
-    "Writing code from memory",
     "Building real projects",
-    "Understanding JavaScript properly",
-    "Creating portfolio-ready projects",
-    "Becoming job-ready step by step"
+    "Improving JavaScript confidence",
+    "Writing cleaner code",
+    "Understanding how code works",
+    "Becoming job-ready"
   ],
   goal: "Become a confident frontend developer and later move into full-stack development",
 };
@@ -61,15 +61,13 @@ const Dre = {
 
 ---
 
-## 🚀 My Current Goals
+## 🎯 Current Goals
 
-- Build my JavaScript muscle memory
-- Get better at writing HTML and CSS without help
-- Understand JavaScript properly, not just copy code
-- Build real portfolio projects
-- Learn React and TypeScript properly
-- Learn how to debug my own mistakes
-- Become job-ready as a developer
+- Improve my JavaScript skills through regular practice
+- Build real projects for my portfolio
+- Learn React and TypeScript when my JavaScript foundation is stronger
+- Get better at debugging and problem solving
+- Work towards becoming job-ready as a developer
 
 ---
 
@@ -114,9 +112,7 @@ const Dre = {
 
 ---
 
-## 📚 My Learning Path
-
-Right now, I'm focusing on the basics properly before rushing too far ahead.
+## 📚 Learning Path
 
 ```txt
 HTML basics        ✅ Practising
@@ -133,39 +129,39 @@ Backend            ⏳ Later
 
 ## 💻 Projects I Want To Build
 
-### Main Portfolio Projects
+### Main Projects
 
 - **3D Developer Portfolio**  
-  A modern personal portfolio with animated sections, 3D effects, project showcases, smooth scrolling, and a clean dark design.
+  A modern portfolio with project sections, smooth animations, 3D elements, and a clean dark design.
 
 - **Invoice App for Small Businesses**  
-  A simple invoice and job-tracking app where users can create customers, add jobs, generate invoices, track paid/unpaid work, and use a free or paid plan.
+  A web app for creating customers, adding jobs, generating invoices, tracking paid/unpaid work, and managing simple business admin.
 
 - **Interactive Stream Bot for Twitch and TikTok Live**  
-  A live chat-powered bot where viewers can trigger animations, sounds, mini-games, polls, pet interactions, alerts, and on-screen effects.
+  A chat-powered tool where viewers can trigger sounds, animations, polls, mini-games, pet interactions, and stream overlays.
 
 - **JavaScript Interactive Cheat Sheet**  
-  A searchable HTML, CSS, and JavaScript cheat sheet with examples, explanations, filters, and beginner-friendly notes.
+  A searchable HTML, CSS, and JavaScript reference site with examples, filters, explanations, and useful code snippets.
 
-- **Personal Knowledge & Notes App**  
-  A note-taking app for saving coding notes, linking topics together, searching notes, and building a personal developer brain.
+- **Personal Notes App**  
+  A simple note-taking app for saving coding notes, searching topics, and keeping track of what I’m learning.
 
-### Fun Project Ideas
+### Extra Project Ideas
 
 - **Pet Bot Web App**  
-  A virtual pet that reacts to clicks, chat commands, feeding, mood, coins, upgrades, and animations.
+  A virtual pet that reacts to clicks, moods, coins, upgrades, and viewer interactions.
 
 - **Mini Game Arcade**  
-  A collection of small JavaScript games like reaction timer, memory cards, clicker game, typing challenge, and quiz game.
+  A collection of small JavaScript games like a reaction timer, memory card game, typing challenge, quiz game, and clicker game.
 
-- **Habit & Progress Tracker**  
-  A dashboard to track coding practice, Scrimba progress, projects completed, GitHub commits, and daily learning streaks.
+- **Coding Progress Tracker**  
+  A dashboard to track Scrimba progress, projects completed, daily practice, GitHub commits, and learning streaks.
 
 - **Streamer Overlay Builder**  
-  A tool that lets streamers create simple overlays, alerts, panels, and animated widgets for their streams.
+  A tool for creating simple stream overlays, alert boxes, animated widgets, and custom panels.
 
 - **Client Website Templates**  
-  A small collection of landing pages for businesses like barbers, cleaners, tradesmen, restaurants, gyms, and creators.
+  A set of landing pages for small businesses like barbers, cleaners, tradesmen, gyms, restaurants, and creators.
 
 ---
 
@@ -186,16 +182,8 @@ Backend            ⏳ Later
 ```txt
 Main focus: JavaScript
 Learning platform: Scrimba
-Current goal: Build small projects, understand the code, and become confident without copying everything
+Current goal: Build projects, understand the code, and improve through practice
 Long-term goal: Become a job-ready frontend / full-stack developer
 ```
 
 ---
-
-<div align="center">
-
-### Thanks for visiting my profile ✨
-
-I'm still learning, but every project gets me closer.
-
-</div>
