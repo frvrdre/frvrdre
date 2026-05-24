@@ -1,18 +1,197 @@
-<h1 align="center">Hi, I'm Dre</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frvrdre&label=Profile%20views&color=0e75b6&style=flat" alt="frvrdre" /> </p>
+<div align="center">
+  <img width="280" src="./assets/main.gif" alt="Welcome banner" />
+  <br />
+  <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frvrdre" alt="frvrdre" /></a> </p>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Itim&size=38&duration=2200&pause=2500&color=E0DFF1&center=true&repeat=false&width=700&height=70&lines=Hey%2C+I'm+Dre+%E2%9C%A8;Future+JavaScript+Developer;Building+my+way+up+one+project+at+a+time"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **JavaScript**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+  <a href="https://github.com/frvrdre">
+    <img src="https://img.shields.io/badge/GitHub-frvrdre-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
+  <img src="https://img.shields.io/badge/Discord-frvrdre-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/frvrdre"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="frvrdre" /></a></p><br><br>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frvrdre&theme=dark" alt="frvrdre" /></p>
+## 👋 About Me
+
+Hi, I'm **Dre**.
+
+I'm **21**, a **father**, and currently learning how to become a better developer step by step.
+
+Right now, my main focus is learning **JavaScript**, improving my coding confidence, and building real projects instead of only watching tutorials.
+
+I'm currently working through **Scrimba courses** and practising HTML, CSS, and JavaScript so I can become confident enough to build websites, apps, and interactive tools on my own.
+
+---
+
+## 🧠 What I'm Learning Right Now
+
+```javascript
+const Dre = {
+  age: 21,
+  role: "Aspiring JavaScript Developer",
+  currentlyLearning: ["HTML", "CSS", "JavaScript", "React", "TypeScript"],
+  currentCourse: "Scrimba",
+  tools: ["VS Code", "Git", "GitHub", "Vite", "npm"],
+  focus: [
+    "Writing code from memory",
+    "Building real projects",
+    "Understanding JavaScript properly",
+    "Creating portfolio-ready projects",
+    "Becoming job-ready step by step"
+  ],
+  goal: "Become a confident frontend developer and later move into full-stack development",
+};
+```
+
+---
+
+## 🚀 My Current Goals
+
+- Build my JavaScript muscle memory
+- Get better at writing HTML and CSS without help
+- Understand JavaScript properly, not just copy code
+- Build real portfolio projects
+- Learn React and TypeScript properly
+- Learn how to debug my own mistakes
+- Become job-ready as a developer
+
+---
+
+## 🛠️ My Tech Stack
+
+### Currently Practising
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-f38ba8?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-89b4fa?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-f9e2af?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+<img src="https://img.shields.io/badge/DOM-94e2d5?style=for-the-badge&logo=javascript&logoColor=000" alt="DOM" />
+<img src="https://img.shields.io/badge/Responsive_Design-a6e3a1?style=for-the-badge&logo=css3&logoColor=000" alt="Responsive Design" />
+
+</div>
+
+### Tools I Use
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/VS_Code-74c7ec?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-fab387?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181825?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/npm-f38ba8?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+<img src="https://img.shields.io/badge/Vite-cba6f7?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Scrimba-cba6f7?style=for-the-badge&logo=scrimba&logoColor=white" alt="Scrimba" />
+
+</div>
+
+### Learning Next
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-89dceb?style=for-the-badge&logo=react&logoColor=000" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-74c7ec?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-94e2d5?style=for-the-badge&logo=tailwindcss&logoColor=000" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Node.js-a6e3a1?style=for-the-badge&logo=nodedotjs&logoColor=000" alt="Node.js" />
+<img src="https://img.shields.io/badge/APIs-f9e2af?style=for-the-badge&logo=postman&logoColor=000" alt="APIs" />
+
+</div>
+
+---
+
+## 📚 My Learning Path
+
+Right now, I'm focusing on the basics properly before rushing too far ahead.
+
+```txt
+HTML basics        ✅ Practising
+CSS layouts        ✅ Practising
+JavaScript basics  🔄 Learning
+DOM manipulation   🔄 Learning
+APIs               🔄 Learning soon
+React              ⏳ Next
+TypeScript         ⏳ Next
+Backend            ⏳ Later
+```
+
+---
+
+## 💻 Projects I Want To Build
+
+### Main Portfolio Projects
+
+- **3D Developer Portfolio**  
+  A modern personal portfolio with animated sections, 3D effects, project showcases, smooth scrolling, and a clean dark design.
+
+- **Invoice App for Small Businesses**  
+  A simple invoice and job-tracking app where users can create customers, add jobs, generate invoices, track paid/unpaid work, and use a free or paid plan.
+
+- **Interactive Stream Bot for Twitch and TikTok Live**  
+  A live chat-powered bot where viewers can trigger animations, sounds, mini-games, polls, pet interactions, alerts, and on-screen effects.
+
+- **JavaScript Interactive Cheat Sheet**  
+  A searchable HTML, CSS, and JavaScript cheat sheet with examples, explanations, filters, and beginner-friendly notes.
+
+- **Personal Knowledge & Notes App**  
+  A note-taking app for saving coding notes, linking topics together, searching notes, and building a personal developer brain.
+
+### Fun Project Ideas
+
+- **Pet Bot Web App**  
+  A virtual pet that reacts to clicks, chat commands, feeding, mood, coins, upgrades, and animations.
+
+- **Mini Game Arcade**  
+  A collection of small JavaScript games like reaction timer, memory cards, clicker game, typing challenge, and quiz game.
+
+- **Habit & Progress Tracker**  
+  A dashboard to track coding practice, Scrimba progress, projects completed, GitHub commits, and daily learning streaks.
+
+- **Streamer Overlay Builder**  
+  A tool that lets streamers create simple overlays, alerts, panels, and animated widgets for their streams.
+
+- **Client Website Templates**  
+  A small collection of landing pages for businesses like barbers, cleaners, tradesmen, restaurants, gyms, and creators.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=frvrdre&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frvrdre&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+## 🗓️ Current Focus
+
+```txt
+Main focus: JavaScript
+Learning platform: Scrimba
+Current goal: Build small projects, understand the code, and become confident without copying everything
+Long-term goal: Become a job-ready frontend / full-stack developer
+```
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ✨
+
+I'm still learning, but every project gets me closer.
+
+</div>
