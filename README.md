@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    width="300"
+    width="150"
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZwNDMxZ2R1NW8zZWN1cXh0NG9tbHFhYnRvbjUzeWs1bG8wd3Q5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOPrq7m5jYS1W/giphy.gif"
     alt="Cool coding GIF"
   />
