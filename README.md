@@ -165,17 +165,34 @@ Backend            ⏳ Later
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=frvrdre&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frvrdre&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+<img src="https://github-profile-trophy.vercel.app/?username=frvrdre&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
 
 </div>
 
 ---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=frvrdre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  alt="Dre's GitHub stats"
+/>
+
+<br />
+<br />
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=frvrdre&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Dre's top languages"
+/>
+
+</div>
 
 ## 🗓️ Current Focus
 
