@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="280" src="./assets/main.gif" alt="Welcome banner" />
+  <img width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZwNDMxZ2R1NW8zZWN1cXh0NG9tbHFhYnRvbjUzeWs1bG8wd3Q5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOPrq7m5jYS1W/giphy.gif" alt="Welcome GIF" />
   <br />
   <br />
 
@@ -60,8 +60,8 @@ const Dre = {
 ## 🚀 My Current Goals
 
 - Build my JavaScript muscle memory
-- Get better at writing HTML and CSS without help
-- Understand JavaScript properly, not just copy code
+- Get better at writing HTML and CSS
+- Understand JavaScript properly
 - Build real portfolio projects
 - Learn React and TypeScript properly
 - Learn how to debug my own mistakes
@@ -117,7 +117,7 @@ Right now, I'm focusing on the basics properly before rushing too far ahead.
 ```txt
 HTML basics        ✅ Practising
 CSS layouts        ✅ Practising
-JavaScript basics  🔄 Learning
+JavaScript basics  ✅ Practising
 DOM manipulation   🔄 Learning
 APIs               🔄 Learning soon
 React              ⏳ Next
