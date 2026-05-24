@@ -29,12 +29,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frvrdre/frvrdre/stats-output/stats.svg" height="160" />
+  <img src="https://raw.githubusercontent.com/frvrdre/stats-output/stats.svg" height="160" />
   <img src="https://streak-stats.demolab.com?user=frvrdre&theme=dracula" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frvrdre/frvrdre/trophy-output/trophy.svg" height="160" />
+  <img src="https://raw.githubusercontent.com/frvrdre/trophy-output/trophy.svg" height="160" />
 </p>
 
 ---
