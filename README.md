@@ -117,8 +117,8 @@ const Dre = {
 ```txt
 HTML basics        ✅ Practising
 CSS layouts        ✅ Practising
-JavaScript basics  🔄 Learning
-DOM manipulation   🔄 Learning
+JavaScript basics  ✅ Practising
+DOM manipulation   ✅ Learning
 APIs               🔄 Learning soon
 React              ⏳ Next
 TypeScript         ⏳ Next
