@@ -26,12 +26,3 @@
 </div>
 
 ---
-
-## 👋 Hi, I'm **Dre**.
-
-
-
-I am a 21-year-old from the United Kingdom, who's passionate about computer science and throwing myself into coding projects in my spare time in languages like c#, javascript annd some python. I am also a father and a husband.
-
-
----
